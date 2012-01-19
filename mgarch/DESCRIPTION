@@ -1,0 +1,12 @@
+Package: mgarch
+Version: 0.1-0
+Date: 2010-10-22
+Title: mgarch - Hacking MGARCH (BEKK) processes
+Author: Harald SCHMIDBAUER <harald@hs-stat.com>,
+        Angi Roesch <angi.r@t-online.de>,
+        Vehbi Sinan TUNALIOGLU <vst@vsthost.com>
+Maintainer: Vehbi Sinan Tunalioglu <vst@vsthost.com>
+Depends: R (>= 2.6.0), tseries, mvtnorm
+Description: Simulate, estimate and predict MGARCH (BEKK) processes
+License: GPL (>= 3)
+URL: http://github.com/vst/mgarch/
